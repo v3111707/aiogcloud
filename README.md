@@ -2,7 +2,7 @@
 
 ## **Install:**
 ```bash
-python3 -m pip install aiogcloud --upgrade -i https://artifactory.wgdp.io/api/pypi/wgsa-pypi/simple --extra-index-url https://pypi.python.org/simple
+python3 -m pip install aiogcloud --upgrade -i .....
 ```
 
 ## **How to use:**
